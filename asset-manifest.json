@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/static/js/main.567cc949.chunk.js",
+    "main.js.map": "/static/js/main.567cc949.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/css/2.7ca58fb4.chunk.css": "/static/css/2.7ca58fb4.chunk.css",
+    "static/js/2.d5fa5789.chunk.js": "/static/js/2.d5fa5789.chunk.js",
+    "static/js/2.d5fa5789.chunk.js.map": "/static/js/2.d5fa5789.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fe56f93e8d29c2f415cf2050d8745b44.js": "/precache-manifest.fe56f93e8d29c2f415cf2050d8745b44.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7ca58fb4.chunk.css.map": "/static/css/2.7ca58fb4.chunk.css.map",
+    "static/js/2.d5fa5789.chunk.js.LICENSE.txt": "/static/js/2.d5fa5789.chunk.js.LICENSE.txt",
+    "static/media/challenge.png": "/static/media/challenge.6f6b7187.png",
+    "static/media/fireMed.png": "/static/media/fireMed.5a5daaf3.png",
+    "static/media/fireSmall.png": "/static/media/fireSmall.601ecfff.png",
+    "static/media/plantMed.png": "/static/media/plantMed.1ec3b69c.png",
+    "static/media/plantSmall.png": "/static/media/plantSmall.bdc991a8.png",
+    "static/media/waterMed.png": "/static/media/waterMed.ec223c94.png",
+    "static/media/waterSmall.png": "/static/media/waterSmall.e921b40e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/css/2.7ca58fb4.chunk.css",
+    "static/js/2.d5fa5789.chunk.js",
+    "static/js/main.567cc949.chunk.js"
+  ]
+}
